@@ -199,7 +199,43 @@ En résumé, cette analyse peut fournir des informations précieuses pour améli
 - [Lien vers le dataset original (Kaggle)]([https://github.com/LesAlchemistes/csv/blob/main/project_risk_raw_dataset.csv](https://www.kaggle.com/datasets/ka66ledata/project-management-risk-raw/data))
 
 ---
-## 5. Visualisations principales
+
+## 5. KPI définis
+
+Dans le cadre de ce projet d’analyse, trois indicateurs clés de performance (KPI) ont été retenus pour évaluer la réussite des projets et la performance des équipes.
+
+### 🎯 KPI 1 : Taux de projets réussis par type de projet
+
+Cet indicateur mesure la proportion de projets considérés comme « réussis » pour chaque type de projet.  
+Un projet est défini comme réussi si :
+- son **score de complexité** est **inférieur à la moyenne**,  
+- **et** son **budget** est **inférieur au budget moyen** pour son type de projet.
+
+Le **taux de succès** est ensuite calculé pour chaque type de projet, et visualisé sous forme de diagramme en barres.
+
+> **Intérêt** : Ce KPI permet d’identifier les types de projets les plus rentables et les plus efficaces en termes de gestion budgétaire et de complexité.
+
+---
+
+### 💰 KPI 2 : Budget moyen par niveau d’expérience de l’équipe
+
+Ce KPI évalue la manière dont le **niveau d’expérience des équipes** influence les **budgets des projets**.  
+Une visualisation de type **boxplot** permet de voir la distribution du budget pour chaque niveau d’expérience.
+
+> **Intérêt** : Il permet de détecter si les équipes plus expérimentées sont associées à des budgets plus élevés (ou non), et d’observer la dispersion budgétaire par niveau.
+
+---
+
+### 🧠 KPI 3 : Score de complexité moyen par niveau d’expérience de l’équipe
+
+Ce KPI permet de déterminer si les **équipes expérimentées** sont **affectées à des projets plus complexes**.  
+Il est calculé en faisant la moyenne du **score de complexité** pour chaque niveau d’expérience.
+
+> **Intérêt** : Cet indicateur est utile pour évaluer la répartition des projets en fonction des compétences des équipes, et pour juger de l’adéquation entre les ressources humaines et les défis techniques.
+
+---
+
+## 6. Visualisations principales
 
 Voici la liste des principaux graphiques réalisés dans le cadre de l’analyse exploratoire des données :
 
