@@ -272,4 +272,3 @@ Analyse de la répartition par catégories :
 
 ---
 
-*Ce livrable constitue la page d’introduction et de présentation du projet, à intégrer en début de rapport PDF. Il peut être enrichi d’un sommaire, d’une page de garde, puis suivi des analyses, codes et visualisations commentés étape par étape.*
