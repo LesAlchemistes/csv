@@ -204,7 +204,7 @@ En résumé, cette analyse peut fournir des informations précieuses pour améli
 
 Dans le cadre de ce projet d’analyse, trois indicateurs clés de performance (KPI) ont été retenus pour évaluer la réussite des projets et la performance des équipes.
 
-### 🎯 KPI 1 : Taux de projets réussis par type de projet
+###  KPI 1 : Taux de projets réussis par type de projet
 
 Cet indicateur mesure la proportion de projets considérés comme « réussis » pour chaque type de projet.  
 Un projet est défini comme réussi si :
@@ -217,7 +217,7 @@ Le **taux de succès** est ensuite calculé pour chaque type de projet, et visua
 
 ---
 
-### 💰 KPI 2 : Budget moyen par niveau d’expérience de l’équipe
+###  KPI 2 : Budget moyen par niveau d’expérience de l’équipe
 
 Ce KPI évalue la manière dont le **niveau d’expérience des équipes** influence les **budgets des projets**.  
 Une visualisation de type **boxplot** permet de voir la distribution du budget pour chaque niveau d’expérience.
@@ -226,7 +226,7 @@ Une visualisation de type **boxplot** permet de voir la distribution du budget p
 
 ---
 
-### 🧠 KPI 3 : Score de complexité moyen par niveau d’expérience de l’équipe
+###  KPI 3 : Score de complexité moyen par niveau d’expérience de l’équipe
 
 Ce KPI permet de déterminer si les **équipes expérimentées** sont **affectées à des projets plus complexes**.  
 Il est calculé en faisant la moyenne du **score de complexité** pour chaque niveau d’expérience.
@@ -239,36 +239,35 @@ Il est calculé en faisant la moyenne du **score de complexité** pour chaque ni
 
 Voici la liste des principaux graphiques réalisés dans le cadre de l’analyse exploratoire des données :
 
-### 📊 Histogrammes  
+###  Histogrammes  
 Distribution des variables numériques (ex. : budget, complexité, taille d’équipe) :
 
-![Histogramme](./histogramme.png)
-
+![Histogramme](https://raw.githubusercontent.com/LesAlchemistes/csv/main/histogramme.png)
 ---
 
-### 📈 Courbes temporelles  
+###  Courbes temporelles  
 Analyse de l’évolution de la durée des projets en fonction des phases :
 
 dans le dataset project_risk_raw_dataset.csv, il n'y a pas de variable temporelle explicite (date) qui permettrait de créer directement des courbes temporelles significatives.
 ---
 
-### 🔥 Heatmap des corrélations  
+###  Heatmap des corrélations  
 Corrélation entre les variables clés du jeu de données :
 
-![Heatmap Corrélations](./Heatmap_des_corrélations.png)
+![Heatmap Corrélations](https://raw.githubusercontent.com/LesAlchemistes/csv/main/Heatmap_des_corrélations.png)
 
 ---
 
-### 📊 Graphiques en barres et camemberts  
+###  Graphiques en barres et camemberts  
 Analyse de la répartition par catégories :
 
-![Barres Type de Projet](./graphique_en_barres.png)
+![Barres Type de Projet](https://raw.githubusercontent.com/LesAlchemistes/csv/main/graphique_en_barres.png)
 
 ---
 
-### 🚀 Visualisations avancées
+###  Visualisations avancées
 
-![Boxplot Seaborn](./graphique_avancé.png)
+![Boxplot Seaborn](https://raw.githubusercontent.com/LesAlchemistes/csv/main/graphique_avancé.png)
 
 ---
 
