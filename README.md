@@ -189,7 +189,7 @@ En résumé, cette analyse peut fournir des informations précieuses pour améli
 
 ## 4. Liens utiles
 
-- [Lien vers le dataset original (GitHub)](https://github.com/LesAlchemistes/csv/blob/main/project_risk_raw_dataset.csv)
+- [Lien vers le dataset original (Kaggle)]([https://github.com/LesAlchemistes/csv/blob/main/project_risk_raw_dataset.csv](https://www.kaggle.com/datasets/ka66ledata/project-management-risk-raw/data))
 
 ---
 ## 5. Visualisations principales
