@@ -219,13 +219,13 @@ Corrélation entre les variables clés du jeu de données :
 ### 📊 Graphiques en barres et camemberts  
 Analyse de la répartition par catégories :
 
-![Barres Type de Projet](.graphique_en_barres.png)
+![Barres Type de Projet](./graphique_en_barres.png)
 
 ---
 
 ### 🚀 Visualisations avancées
 
-![Boxplot Seaborn](.graphique_avancé.png)
+![Boxplot Seaborn](./graphique_avancé.png)
 
 ---
 
