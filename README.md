@@ -219,16 +219,13 @@ Corrélation entre les variables clés du jeu de données :
 ### 📊 Graphiques en barres et camemberts  
 Analyse de la répartition par catégories :
 
-- **Types de projets**  
-  ![Barres Type de Projet](.graphique_en_barres.png)
+![Barres Type de Projet](.graphique_en_barres.png)
 
 ---
 
 ### 🚀 Visualisations avancées
 
-- **Boxplot Seaborn** :  
-  Distribution du budget par niveau d'expérience de l'équipe
-  ![Boxplot Seaborn](.graphique_avancé.png)
+![Boxplot Seaborn](.graphique_avancé.png)
 
 ---
 
