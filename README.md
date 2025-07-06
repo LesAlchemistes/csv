@@ -240,26 +240,23 @@ Il est calculé en faisant la moyenne du **score de complexité** pour chaque ni
 Voici la liste des principaux graphiques réalisés dans le cadre de l’analyse exploratoire des données :
 
 ###  Histogrammes  
-Distribution des variables numériques (ex. : budget, complexité, taille d’équipe) :
 
 ![Histogramme](https://raw.githubusercontent.com/LesAlchemistes/csv/main/histogramme.png)
 ---
 
 ###  Courbes temporelles  
-Analyse de l’évolution de la durée des projets en fonction des phases :
 
-dans le dataset project_risk_raw_dataset.csv, il n'y a pas de variable temporelle explicite (date) qui permettrait de créer directement des courbes temporelles significatives.
+Dans le dataset project_risk_raw_dataset.csv, il n'y a pas de variable temporelle explicite (date) qui permettrait de créer directement des courbes temporelles significatives.
+
 ---
 
 ###  Heatmap des corrélations  
-Corrélation entre les variables clés du jeu de données :
 
 ![Heatmap Corrélations](https://raw.githubusercontent.com/LesAlchemistes/csv/main/Heatmap_des_corrélations.png)
 
 ---
 
 ###  Graphiques en barres et camemberts  
-Analyse de la répartition par catégories :
 
 ![Barres Type de Projet](https://raw.githubusercontent.com/LesAlchemistes/csv/main/graphique_en_barres.png)
 
