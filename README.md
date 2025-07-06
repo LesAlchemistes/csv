@@ -61,7 +61,7 @@ Même en étant seul dans l’équipe, chaque étape a été validée avant d’
 
 ---
 
-### Travail en équipe (adapté au contexte solo)
+### Travail en équipe
 
 Bien que seul sur ce projet, j’ai simulé la dynamique d’équipe en :
 - Tenant un journal de bord pour rendre compte de l’avancement,
