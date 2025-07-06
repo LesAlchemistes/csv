@@ -1,5 +1,12 @@
-# Livrable - Projet Data Analyst Junior  
-## Analyse du jeu de données : Project Management Risk Raw
+# Présentation du Projet – Analyse de Données BI avec Python
+
+## Étudiant / Groupe  
+**Nom** : KATSIEV 
+**Groupe / Promotion** : E4 Big DATA 
+
+## Dataset utilisé  
+**Nom du dataset** : Project Management Risk Raw  
+**Source** : [Kaggle - project_risk_raw_dataset.csv](https://www.kaggle.com/datasets/ka66ledata/project-management-risk-raw/data)
 
 ---
 
